@@ -1,12 +1,12 @@
 {
-  "name": "webpack-hot-client",
-  "version": "4.2.0",
+  "name": "webpack-hot-client-alt",
+  "version": "0.1.0",
   "description": "A client for enabling, and interacting with, webpack Hot Module Replacement",
   "license": "MIT",
-  "repository": "shellscape/webpack-hot-client",
-  "author": "Andrew Powell <andrew@shellscape.org>",
-  "homepage": "https://github.com/shellscape/webpack-hot-client",
-  "bugs": "https://github.com/shellscape/webpack-hot-client/issues",
+  "repository": "TonyJOM/webpack-hot-client-alt",
+  "author": "Anthony Orta <anthony.orta@taxfyle.com>",
+  "homepage": "https://github.com/TonyJOM/webpack-hot-client-alt",
+  "bugs": "https://github.com/TonyJOM/webpack-hot-client-alt/issues",
   "main": "lib/index.js",
   "engines": {
     "node": ">= 6.9.0 < 7.0.0 || >= 8.9.0"
@@ -43,7 +43,7 @@
     "README.md"
   ],
   "peerDependencies": {
-    "webpack": "^4.0.0"
+    "webpack": "^5.73.0"
   },
   "dependencies": {
     "@webpack-contrib/schema-utils": "^1.0.0-beta.0",
@@ -88,7 +88,7 @@
     "standard-version": "^9.0.0",
     "time-fix-plugin": "^2.0.0",
     "touch": "^3.1.0",
-    "webpack": "^4.35.2"
+    "webpack": "^5.73.0"
   },
   "keywords": [
     "webpack"
