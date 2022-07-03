@@ -1,7 +1,7 @@
 {
   "name": "webpack-hot-client-alt",
-  "version": "0.1.0",
-  "description": "A client for enabling, and interacting with, webpack Hot Module Replacement",
+  "version": "0.1.1",
+  "description": "webpack-hot-client by @shellscape adapted for webpack 5",
   "license": "MIT",
   "repository": "TonyJOM/webpack-hot-client-alt",
   "author": "Anthony Orta <anthony.orta@taxfyle.com>",

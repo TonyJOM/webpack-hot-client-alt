@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   resolve: {
     alias: {
-      'webpack-hot-client/client': path.resolve(__dirname, '../../client')
+      'webpack-hot-client-alt/client': path.resolve(__dirname, '../../client')
     }
   },
   context: __dirname,

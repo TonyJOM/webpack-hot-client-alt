@@ -4,7 +4,7 @@ module.exports = [
   {
     resolve: {
       alias: {
-        'webpack-hot-client/client': resolve(__dirname, '../../../lib/client')
+        'webpack-hot-client-alt/client': resolve(__dirname, '../../../lib/client')
       }
     },
     context: __dirname,
