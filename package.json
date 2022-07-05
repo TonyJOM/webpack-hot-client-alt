@@ -1,6 +1,6 @@
 {
   "name": "webpack-hot-client-alt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "webpack-hot-client by @shellscape adapted for webpack 5",
   "license": "MIT",
   "repository": "TonyJOM/webpack-hot-client-alt",
